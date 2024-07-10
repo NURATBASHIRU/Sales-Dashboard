@@ -16,7 +16,7 @@ I also created visualization for the following;
 
 
 ### Data Source
-[Kaggle](https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset)
+[Kaggle](https://www.kaggle.com/datasets/ahsan81/food-ordering-and-delivery-app-dataset)](https://www.kaggle.com/datasets/juhi1994/superstore)
 
 ### Tools
 Excel Workbook
@@ -33,13 +33,11 @@ Tableau
 - food_preparation_time: Time (in minutes) taken by the restaurant to prepare the food. This is calculated by taking the difference between the timestamps of the restaurant's order confirmation and the delivery person's pick-up confirmation.
 - delivery_time: Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the difference between the timestamps of the delivery person's pick-up confirmation and drop-off information
 ### Result / Findings
-Here is a link to the Tableau Dashboard created for this course; [Tableau](https://public.tableau.com/views/RESTAURANTDATAANALYSIS/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- Customers order more during the weekend
-- American, Japanese and Italian Cuisines Have the highest order rate
-- Shake Shack is the most popular restaurant in New York
-- American, Japanese and Italian Cuisines have the highest frequency of '5 star' ratings. Although, we have a significantly high amount of "not given" - customers who have refused to give any rating at all out of the three categories provided - and I recommend that the restaurants should encourage customers to give a rating. so 'Rating' can be properly measured for each cuisine type.
+Here is a link to the Tableau Dashboard created for this course; [Tableau](https://public.tableau.com/views/SalesDashboard_17194921581560/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+The analysis makes it evident that;
+- The business generates more sale from NewYork and California
+- A huge segment of sale comes from 'Corporate' customers
+- Technology and Furnitures are the highest sale generating product sub-category
+- Kristine Conolley and Nina Kelly are the top-two customers out o our top-ten whom we make more profit from. 
 
 ### Recommendations
-- The restaurants should increase staff strenght and food availability for weekend sale activities.
-- The restaurants should create a niche for the American, Japanese and Italian dishes since they are the most ordered. The restaurants may as well invest more in these dishes while generally improving on the other dishes.
-- Restaurants may also create varieties for these dishes. since customers are really invested in it, they mas as well be open to other options.
