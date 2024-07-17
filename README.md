@@ -23,7 +23,7 @@ Excel Workbook
 Tableau
 
 ### Result / Findings
-Here is a link to the Tableau Dashboard created for this course; [Tableau](https://public.tableau.com/views/SalesDashboard_17194921581560/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Here is a link to the Tableau Dashboard created for this course; [Tableau](https://public.tableau.com/views/SalesDashboard_17194921581560/SALESDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 The analysis makes it evident that;
 - The business generates more sale from NewYork and California
 - A huge segment of sale comes from 'Corporate' customers
